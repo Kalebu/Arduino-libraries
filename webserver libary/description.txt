@@ -1,0 +1,9 @@
+aWOT
+Arduino web server library.
+
+Author
+Lasse Lukkari
+Website
+https://awot.net/
+Github
+https://github.com/lasselukkari/aWOT
